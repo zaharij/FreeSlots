@@ -1,0 +1,399 @@
+{
+  "0": [
+    {
+      "start": 37800,
+      "finish": 39600
+    },
+    {
+      "start": 39600,
+      "finish": 41400
+    },
+    {
+      "start": 43200,
+      "finish": 45000
+    },
+    {
+      "start": 45000,
+      "finish": 46800
+    },
+    {
+      "start": 46800,
+      "finish": 48600
+    },
+    {
+      "start": 48600,
+      "finish": 50400
+    },
+    {
+      "start": 50400,
+      "finish": 52200
+    },
+    {
+      "start": 52200,
+      "finish": 54000
+    },
+    {
+      "start": 54000,
+      "finish": 55800
+    },
+    {
+      "start": 32400,
+      "finish": 34200
+    },
+    {
+      "start": 63000,
+      "finish": 64800
+    },
+    {
+      "start": 21600,
+      "finish": 23400
+    },
+    {
+      "start": 23400,
+      "finish": 25200
+    },
+    {
+      "start": 25200,
+      "finish": 27000
+    },
+    {
+      "start": 27000,
+      "finish": 28800
+    },
+    {
+      "start": 30600,
+      "finish": 32400
+    },
+    {
+      "start": 28800,
+      "finish": 30600
+    }
+  ],
+  "1": [
+    {
+      "start": 34200,
+      "finish": 36000
+    },
+    {
+      "start": 36000,
+      "finish": 37800
+    },
+    {
+      "start": 37800,
+      "finish": 39600
+    },
+    {
+      "start": 39600,
+      "finish": 41400
+    },
+    {
+      "start": 41400,
+      "finish": 43200
+    },
+    {
+      "start": 43200,
+      "finish": 45000
+    },
+    {
+      "start": 45000,
+      "finish": 46800
+    },
+    {
+      "start": 46800,
+      "finish": 48600
+    },
+    {
+      "start": 48600,
+      "finish": 50400
+    },
+    {
+      "start": 50400,
+      "finish": 52200
+    },
+    {
+      "start": 55800,
+      "finish": 57600
+    },
+    {
+      "start": 57600,
+      "finish": 59400
+    },
+    {
+      "start": 59400,
+      "finish": 61200
+    },
+    {
+      "start": 61200,
+      "finish": 63000
+    },
+    {
+      "start": 63000,
+      "finish": 64800
+    },
+    {
+      "start": 32400,
+      "finish": 34200
+    },
+    {
+      "start": 25200,
+      "finish": 27000
+    },
+    {
+      "start": 27000,
+      "finish": 28800
+    },
+    {
+      "start": 30600,
+      "finish": 32400
+    },
+    {
+      "start": 28800,
+      "finish": 30600
+    }
+  ],
+  "2": [
+    {
+      "start": 34200,
+      "finish": 36000
+    },
+    {
+      "start": 36000,
+      "finish": 37800
+    },
+    {
+      "start": 37800,
+      "finish": 39600
+    },
+    {
+      "start": 41400,
+      "finish": 43200
+    },
+    {
+      "start": 45000,
+      "finish": 46800
+    },
+    {
+      "start": 48600,
+      "finish": 50400
+    },
+    {
+      "start": 54000,
+      "finish": 55800
+    },
+    {
+      "start": 57600,
+      "finish": 59400
+    },
+    {
+      "start": 59400,
+      "finish": 61200
+    },
+    {
+      "start": 61200,
+      "finish": 63000
+    },
+    {
+      "start": 63000,
+      "finish": 64800
+    },
+    {
+      "start": 32400,
+      "finish": 34200
+    },
+    {
+      "start": 21600,
+      "finish": 23400
+    },
+    {
+      "start": 23400,
+      "finish": 25200
+    },
+    {
+      "start": 25200,
+      "finish": 27000
+    },
+    {
+      "start": 30600,
+      "finish": 32400
+    },
+    {
+      "start": 28800,
+      "finish": 30600
+    }
+  ],
+  "3": [
+    {
+      "start": 36000,
+      "finish": 37800
+    },
+    {
+      "start": 37800,
+      "finish": 39600
+    },
+    {
+      "start": 39600,
+      "finish": 41400
+    },
+    {
+      "start": 43200,
+      "finish": 45000
+    },
+    {
+      "start": 45000,
+      "finish": 46800
+    },
+    {
+      "start": 46800,
+      "finish": 48600
+    },
+    {
+      "start": 48600,
+      "finish": 50400
+    },
+    {
+      "start": 50400,
+      "finish": 52200
+    },
+    {
+      "start": 52200,
+      "finish": 54000
+    },
+    {
+      "start": 54000,
+      "finish": 55800
+    },
+    {
+      "start": 57600,
+      "finish": 59400
+    },
+    {
+      "start": 61200,
+      "finish": 63000
+    },
+    {
+      "start": 63000,
+      "finish": 64800
+    },
+    {
+      "start": 32400,
+      "finish": 34200
+    },
+    {
+      "start": 23400,
+      "finish": 25200
+    },
+    {
+      "start": 25200,
+      "finish": 27000
+    },
+    {
+      "start": 27000,
+      "finish": 28800
+    },
+    {
+      "start": 28800,
+      "finish": 30600
+    }
+  ],
+  "4": [
+    {
+      "start": 34200,
+      "finish": 36000
+    },
+    {
+      "start": 36000,
+      "finish": 37800
+    },
+    {
+      "start": 37800,
+      "finish": 39600
+    },
+    {
+      "start": 39600,
+      "finish": 41400
+    },
+    {
+      "start": 41400,
+      "finish": 43200
+    },
+    {
+      "start": 48600,
+      "finish": 50400
+    },
+    {
+      "start": 50400,
+      "finish": 52200
+    },
+    {
+      "start": 52200,
+      "finish": 54000
+    },
+    {
+      "start": 54000,
+      "finish": 55800
+    },
+    {
+      "start": 55800,
+      "finish": 57600
+    },
+    {
+      "start": 61200,
+      "finish": 63000
+    },
+    {
+      "start": 63000,
+      "finish": 64800
+    },
+    {
+      "start": 32400,
+      "finish": 34200
+    },
+    {
+      "start": 46800,
+      "finish": 48600
+    },
+    {
+      "start": 21600,
+      "finish": 23400
+    },
+    {
+      "start": 23400,
+      "finish": 25200
+    },
+    {
+      "start": 27000,
+      "finish": 28800
+    },
+    {
+      "start": 30600,
+      "finish": 32400
+    }
+  ],
+  "5": [
+    {
+      "start": 43200,
+      "finish": 45000
+    },
+    {
+      "start": 45000,
+      "finish": 46800
+    },
+    {
+      "start": 46800,
+      "finish": 48600
+    },
+    {
+      "start": 48600,
+      "finish": 50400
+    },
+    {
+      "start": 54000,
+      "finish": 55800
+    },
+    {
+      "start": 55800,
+      "finish": 57600
+    }
+  ],
+  "6": []
+}
